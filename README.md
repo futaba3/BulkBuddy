@@ -93,11 +93,6 @@ Mainブランチが外部に公開する最新プロダクトとして更新さ�
 - 強制有料プラン（7days）
 - フロント、バック担当は3日目と一緒
 
-### API Gateway情報
-
-URL: [https://52cypecucj.execute-api.ap-northeast-1.amazonaws.com](https://52cypecucj.execute-api.ap-northeast-1.amazonaws.com/)
-名前: angels-bulkbuddy-api
-
 ### Figmaリンク
 
 [https://www.figma.com/file/YmrmPtm4u0zza8keNnLgQz/BulkBuddy?type=design&node-id=0%3A1&mode=design&t=aclGlTrtZTLTXDxm-1](https://www.figma.com/file/YmrmPtm4u0zza8keNnLgQz/BulkBuddy?type=design&node-id=0%3A1&mode=design&t=aclGlTrtZTLTXDxm-1)
